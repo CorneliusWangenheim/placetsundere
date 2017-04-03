@@ -4,7 +4,7 @@ Shamelessly copied from the chaps over at /r/placestart, so thanks to them. Also
 
 ## Mantainer Bot
 
-0. Make sure Python3 and pip are installed
+0. Make sure Python3 and pip are installed (https://www.python.org/downloads/)
 
     `python --version` should output python 3.x
 
