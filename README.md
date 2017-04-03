@@ -1,7 +1,6 @@
-# /r/placestart defender
+# /r/tsunderesharks defender
 
-To run this painter bot, you must have python and pip installed.
-If you don't have it or it's not working properly, check the python help at the bottom - thanks Ryhida.
+Shamelessly copied from the chaps over at /r/placestart, so thanks to them.
 
 ## Mantainer Bot
 
