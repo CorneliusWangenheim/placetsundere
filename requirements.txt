@@ -1,0 +1,3 @@
+pillow
+fire
+requests==2.8.1
