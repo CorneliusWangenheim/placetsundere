@@ -1,6 +1,6 @@
 # /r/tsunderesharks defender
 
-Shamelessly copied from the chaps over at /r/placestart, so thanks to them.
+Shamelessly copied from the chaps over at /r/placestart, so thanks to them. Also, thanks to /u/Shogunfish for help with the template.
 
 ## Mantainer Bot
 
